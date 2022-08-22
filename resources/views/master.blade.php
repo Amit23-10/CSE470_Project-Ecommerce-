@@ -25,6 +25,10 @@
         height:780px;
         padding-top: 280px;
     }
+    .custom-details{
+        height:780px;
+        margin-top:200px;
+    }
     .slider-text{
         background-color: #35443585 !important;
     }
@@ -40,7 +44,7 @@
         width: 25%;
     }
     .custom-product{
-        height: 600px
+        height: 800px
     }
     .trending-wrapper{
         margin: 30px;

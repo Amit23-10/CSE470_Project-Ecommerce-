@@ -6,7 +6,7 @@ if(Session::has('user'))
   $total= ProductController::cartItem();
 }
 ?>
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default" style=background-color:#272d33;>
     <div class="container-fluid">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">

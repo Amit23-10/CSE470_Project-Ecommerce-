@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>amit</title>
+    <title>JoyGadget</title>
 </head>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -17,7 +17,7 @@
 <body>
     {{View::make('header')}}
     @yield('content')
-    {{View::make('footer')}}
+    <!-- {{View::make('footer')}} -->
 
 </body>
 <style>
@@ -28,12 +28,13 @@
     .custom-details{
         height:780px;
         margin-top:200px;
+        
     }
     .slider-text{
-        background-color: #35443585 !important;
+        background-color: #000000 !important;
     }
     img.slider-img{
-        height:500px !important
+        height:300px !important
     }
     .trending-image{
         height: 150px;
@@ -50,10 +51,10 @@
         margin: 30px;
     }
     .detail-img{
-        height: 200px;
+        height: 600px;
     }
     .search-box{
-        width: 500px !important
+        width: 800px !important
     }
     .cart-list-devider{
         border-bottom: 1px solid #ccc;

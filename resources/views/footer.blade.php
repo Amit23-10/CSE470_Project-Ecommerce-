@@ -1,7 +1,7 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 body{
-	line-height: 1.5;
+	line-height: 0.5;
 	font-family: 'Poppins', sans-serif;
 }
 *{
@@ -125,21 +125,17 @@ ul{
   	 		<div class="footer-col">
   	 			<h4>online shop</h4>
   	 			<ul>
-  	 				<li><a href="#">US Polo</a></li>
-  	 				<li><a href="#">Cap</a></li>
-  	 				<li><a href="#">Shoe</a></li>
-  	 				<li><a href="#">Casual Shirt</a></li>
+  	 				<li><a href="#">Dell Inspiron 15 3511</a></li>
+  	 				<li><a href="#">InFocus IN1004 3100</a></li>
+  	 				<li><a href="#">Deli 4122 Digital Safe Box</a></li>
+  	 				<li><a href="#">Lenovo D19-10 18.5 Inch</a></li>
+					<li><a href="#">Fantech HG11</a></li>
+  	 				<li><a href="#">Cudy M1800 AX1800</a></li>
+  	 				<li><a href="#">TP-Link Tapo C200 2MP</a></li>
+  	 				<li><a href="#">Huawei Watch GT 2</a></li>
   	 			</ul>
   	 		</div>
-  	 		<div class="footer-col">
-  	 			<h4>follow us</h4>
-  	 			<div class="social-links">
-  	 				<a href="#"><i class="fab fa-facebook-f"></i></a>
-  	 				<a href="#"><i class="fab fa-twitter"></i></a>
-  	 				<a href="#"><i class="fab fa-instagram"></i></a>
-  	 				<a href="#"><i class="fab fa-linkedin-in"></i></a>
-  	 			</div>
-  	 		</div>
+
   	 	</div>
   	 </div>
   </footer>

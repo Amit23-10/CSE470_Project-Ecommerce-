@@ -6,7 +6,7 @@ if(Session::has('user'))
   $total= ProductController::cartItem();
 }
 ?>
-<nav class="navbar navbar-default" style=background-color:#272d33;>
+<nav class="navbar navbar-default" style=background-color:#87CEFA;>
     <div class="container-fluid">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
@@ -16,7 +16,7 @@ if(Session::has('user'))
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/">Amit</a>
+        <a class="navbar-brand" href="/">Joy Gadget</a>
       </div>
   
       <!-- Collect the nav links, forms, and other content for toggling -->
